@@ -1,2 +1,2 @@
 # Tindog
-Find friends for your dogs.
+Find friends for your dog.
